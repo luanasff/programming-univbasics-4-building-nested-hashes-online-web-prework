@@ -46,6 +46,27 @@ def the monopoly_with_fourth_tier
         :four_pieces_owned => 200
         },
     :names => 
-           
+      {
+      :reading_railroad=>
+      {
+        "mortgage_value"=>"$100"
+      },
+      :pennsylvania_railroad=>
+      {
+        "mortgage_value"=>"$200"
+      },
+      :b_and_o_railroad=>
+      {
+        "mortgage_value"=>"$400"
+      },
+      :shortline=>
+      {
+        "mortgage_value"=>"$800"
+      }
+    }
+  }
+}
+
+end
        
          
